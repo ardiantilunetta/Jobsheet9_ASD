@@ -1,3 +1,4 @@
+package Mahasiswa;
 public class Mahasiswa18 {
 
     String nim;
